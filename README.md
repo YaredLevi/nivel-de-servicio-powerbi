@@ -81,8 +81,8 @@ El modelo semántico está construido bajo un esquema estrella, con relaciones e
 ### 1. Casos Gestionados por Ejecutiva
 
 <div style="display:flex; gap:16px; align-items:flex-start;">
-  <img src="Screenshot/PAGINA 1 - CANAL.png" alt="Página 1 - Canal" width="49%">
-  <img src="Screenshot/PAGINA 1 - SUBTIPO.png" alt="Página 1 - Subtipo" width="49%">
+  <img src="Code/PAGINA 1 - CANAL.png" alt="Página 1 - Canal" width="49%">
+  <img src="Code/PAGINA 1 - SUBTIPO.png" alt="Página 1 - Subtipo" width="49%">
 </div>
 
 Monitoreo de la carga operativa mensual del equipo.
@@ -100,7 +100,7 @@ Monitoreo de la carga operativa mensual del equipo.
 ### 2. Rechazos Mensual
 
 <div style="display:flex; gap:16px; align-items:flex-start;">
-  <img src="Screenshot/PAGINA 2.png" alt="Página 1 - Canal" width="49%">
+  <img src="Code/PAGINA 2.png" alt="Página 1 - Canal" width="49%">
 </div>
 
 Análisis de los rechazos que sufren los empleados de Aguas Andes por parte de Euro América.
@@ -123,7 +123,7 @@ Análisis de los rechazos que sufren los empleados de Aguas Andes por parte de E
 ### 3. SLA — Nivel de Servicio
 
 <div style="display:flex; gap:16px; align-items:flex-start;">
-  <img src="Screenshot/PAGINA 3.png" alt="Página 1 - Canal" width="49%">
+  <img src="Code/PAGINA 3.png" alt="Página 1 - Canal" width="49%">
 </div>
 
 El corazón del reporte. Esta hoja es la que WTW comparte directamente con Aguas Andes como evidencia del cumplimiento del acuerdo de servicio.
