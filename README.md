@@ -1,4 +1,4 @@
-# 📊 Nivel de Servicio de Ejecutivas — Power BI/DAX/Power Query(M)/SQL/Excel
+# 📊 Seguimiento Nivel de Servicio de Ejecutivas — Power BI/DAX/Power Query(M)/SQL/Excel
 
 Dashboard de gestión operativa desarrollado para una correduría de seguros, orientado a monitorear el cumplimiento del acuerdo de nivel de servicio (SLA), analizar rechazos de la aseguradora e identificar la carga laboral por ejecutiva.
 
@@ -8,7 +8,7 @@ Dashboard de gestión operativa desarrollado para una correduría de seguros, or
 
 Willis Top Wilson no contaba con una forma estructurada de demostrarle a su cliente corporativo que el acuerdo de servicio pactado se estaba cumpliendo. El seguimiento del SLA y los rechazos se realizaba de forma manual, sin visibilidad consolidada ni periodicidad definida.
 
-Esto representaba un riesgo directo para la retención del cliente: sin evidencia concreta del rendimiento operativo, cualquier percepción negativa del servicio podía derivar en la pérdida de la cuenta.
+Esto representaba un riesgo directo para la retención del cliente: sin evidencia concreta del rendimiento operativo, cualquier percepción negativa del servicio podía derivar en la pérdida de un cliente importante.
 
 Este dashboard convirtió datos operativos dispersos en un reporte periódico compartible con el cliente, con métricas claras de cumplimiento, análisis de rechazos y distribución de carga por ejecutiva.
 
@@ -80,6 +80,11 @@ El modelo semántico está construido bajo un esquema estrella, con relaciones e
 
 ### 1. Casos Gestionados por Ejecutiva
 
+<div style="display:flex; gap:16px; align-items:flex-start;">
+  <img src="Screenshot/PAGINA 1 - CANAL.png" alt="Página 1 - Canal" width="49%">
+  <img src="Screenshot/PAGINA 1 - SUBTIPO.png" alt="Página 1 - Subtipo" width="49%">
+</div>
+
 Monitoreo de la carga operativa mensual del equipo.
 
 - Tarjeta KPI: total de casos gestionados (1.237)
@@ -93,6 +98,10 @@ Monitoreo de la carga operativa mensual del equipo.
 - Canales: Email, Llamado telefónico, Presencial, WhatsApp
 
 ### 2. Rechazos Mensual
+
+<div style="display:flex; gap:16px; align-items:flex-start;">
+  <img src="Screenshot/PAGINA 2.png" alt="Página 1 - Canal" width="49%">
+</div>
 
 Análisis de los rechazos que sufren los empleados de Aguas Andes por parte de Euro América.
 
@@ -113,6 +122,10 @@ Análisis de los rechazos que sufren los empleados de Aguas Andes por parte de E
 
 ### 3. SLA — Nivel de Servicio
 
+<div style="display:flex; gap:16px; align-items:flex-start;">
+  <img src="Screenshot/PAGINA 3.png" alt="Página 1 - Canal" width="49%">
+</div>
+
 El corazón del reporte. Esta hoja es la que WTW comparte directamente con Aguas Andes como evidencia del cumplimiento del acuerdo de servicio.
 
 - KPIs principales: Casos gestionados: **1.237** · Dentro SLA: **1.149** · Fuera SLA: **88** · Cumplimiento: **92,9%** · Meta: **94,1%** · Brecha: **-1,2%**
@@ -124,25 +137,6 @@ El corazón del reporte. Esta hoja es la que WTW comparte directamente con Aguas
 - Estadísticas: Media 90,8% · Desviación estándar 5,26%
 
 > 💡 La caída de marzo a 84,1% y la recuperación inmediata a 100% en abril son el tipo de dato que justifica la existencia de este reporte: permite detectar anomalías, investigar sus causas y demostrar capacidad de corrección.
-
----
-
-## 🖼️ Capturas del dashboard
-
-### Nivel de Servicio (SLA)
-![Nivel de Servicio](assets/nivel-de-servicio.png)
-
-### Análisis Operativo de Rechazos
-![Análisis de Rechazos](assets/analisis-rechazos.png)
-
-### Casos Gestionados por Ejecutiva
-![Casos por Ejecutiva](assets/casos-ejecutiva.png)
-
----
-
-## ▶️ Video presentación
-
-> 🔗 *Próximamente disponible en YouTube*
 
 ---
 
@@ -159,7 +153,6 @@ El corazón del reporte. Esta hoja es la que WTW comparte directamente con Aguas
 
 ---
 
-## 👤 Autor
 
 **Yared Levi Órdenes Vásquez**  
 Ingeniero en Informática · BI Developer  
