@@ -1,0 +1,4 @@
+PowerQuery/** linguist-language=M
+PowerQuery/** linguist-detectable=true
+*.sql linguist-language=SQL
+*.sql linguist-detectable=true
